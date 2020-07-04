@@ -2,12 +2,12 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
-char auth[] = "wc5WtLZLYByP8Cbj4xYc6xLWVobP8gmT";
+char auth[] = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Hermione2";
-char pass[] = "10M16G01A";
+char ssid[] = "xxxxxxxxxxxxxxxx";
+char pass[] = "xxxxxxxxxxxxxx";
 
 //byte statusLed    = 13;
 
